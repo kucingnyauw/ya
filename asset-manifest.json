@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/ya/static/css/main.2bf26063.css",
-    "main.js": "/ya/static/js/main.f7dc98df.js",
-    "static/js/787.c4e7f8f9.chunk.js": "/ya/static/js/787.c4e7f8f9.chunk.js",
-    "static/media/logo.svg": "/ya/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/ya/index.html",
-    "main.2bf26063.css.map": "/ya/static/css/main.2bf26063.css.map",
-    "main.f7dc98df.js.map": "/ya/static/js/main.f7dc98df.js.map",
-    "787.c4e7f8f9.chunk.js.map": "/ya/static/js/787.c4e7f8f9.chunk.js.map"
+    "main.css": "/kucingnyauw/cape.git/static/css/main.d280ce73.css",
+    "main.js": "/kucingnyauw/cape.git/static/js/main.919ffc2f.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/kucingnyauw/cape.git/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/kucingnyauw/cape.git/index.html",
+    "main.d280ce73.css.map": "/kucingnyauw/cape.git/static/css/main.d280ce73.css.map",
+    "main.919ffc2f.js.map": "/kucingnyauw/cape.git/static/js/main.919ffc2f.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/kucingnyauw/cape.git/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2bf26063.css",
-    "static/js/main.f7dc98df.js"
+    "static/css/main.d280ce73.css",
+    "static/js/main.919ffc2f.js"
   ]
 }
